@@ -1,8 +1,4 @@
-![VibeBot](/src/assets/logonew.png)
-
 "Hope is your digital companion, dedicated to fostering mental wellness, championing accessibility, and sparking imaginative journeys through personalized experiences tailored just for you."
-
-![VibeBot](/src/assets/thumbnail.png)
 
 ## Overview
 
